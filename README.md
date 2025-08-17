@@ -4,9 +4,7 @@
 This project performs an **Exploratory Data Analysis (EDA)** on the **Netflix Movies and TV Shows dataset** using **Python, Pandas, and Matplotlib**.  
 It uncovers insights into Netflix’s content library — including trends by type, rating, duration, release year, and country.
 
----
-
-## 📂 Repository Contents
+## Repository Contents
 - `project.ipynb` → Main Jupyter Notebook with full analysis  
 - `netflix_titles_dataset.csv` → Dataset used for analysis  
 - `content_rating.png` → Content rating distribution (Pie Chart)  
@@ -20,9 +18,9 @@ It uncovers insights into Netflix’s content library — including trends by ty
 
 ---
 
-## 📸 Visualizations
+## Visualizations
 
-## 🎥 Demo
+### 🎥 Demo
 Here’s a quick demo of the notebook execution:
 
 ![Demo](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/Demo.gif))
