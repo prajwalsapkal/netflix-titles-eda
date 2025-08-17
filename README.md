@@ -23,7 +23,7 @@ It uncovers insights into Netflix’s content library — including trends by ty
 ## 📸 Visualizations
 
 ### Movies vs TV Shows
-![Movies vs TV Shows]([movies%20vs%20tvshow.png](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movies%20vs%20tvshow.png))
+![Movies vs TV Shows](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movies%20vs%20tvshow.png))
 
 ### Rating Distribution
 ![Content Rating]([content_rating.png](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/content_rating.png))
