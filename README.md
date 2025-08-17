@@ -31,9 +31,6 @@ Here’s a quick demo of the notebook execution:
 ### Movies vs TV Shows
 ![Movies vs TV Shows](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movies%20vs%20tvshow.png))
 
-### Rating Distribution
-![Content Rating](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/content_rating.png))
-
 ### Movie Duration Distribution
 ![Movie Duration Histogram](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movie_duration_histogram.png))
 
@@ -42,6 +39,9 @@ Here’s a quick demo of the notebook execution:
 
 ### Top 10 Countries
 ![Top 10 Countries](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/top_10countries.png))
+
+### Rating Distribution
+![Content Rating](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/content_rating.png))
 
 ### Movies vs TV Shows Comparison Over Time
 ![Movies vs TV Shows Comparison](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movies_tv_comparison.png))
