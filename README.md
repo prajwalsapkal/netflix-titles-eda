@@ -22,6 +22,12 @@ It uncovers insights into Netflix’s content library — including trends by ty
 
 ## 📸 Visualizations
 
+## 🎥 Demo
+Here’s a quick demo of the notebook execution:
+
+![Demo](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/Demo.gif))
+
+
 ### Movies vs TV Shows
 ![Movies vs TV Shows](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movies%20vs%20tvshow.png))
 
@@ -40,11 +46,4 @@ It uncovers insights into Netflix’s content library — including trends by ty
 ### Movies vs TV Shows Comparison Over Time
 ![Movies vs TV Shows Comparison](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movies_tv_comparison.png))
 
----
 
-## 🎥 Demo
-Here’s a quick demo of the notebook execution:
-
-![Demo](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/Demo.gif))
-
----
