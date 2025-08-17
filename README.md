@@ -26,25 +26,25 @@ It uncovers insights into Netflix’s content library — including trends by ty
 ![Movies vs TV Shows](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movies%20vs%20tvshow.png))
 
 ### Rating Distribution
-![Content Rating]([content_rating.png](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/content_rating.png))
+![Content Rating](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/content_rating.png))
 
 ### Movie Duration Distribution
-![Movie Duration Histogram]([movie_duration_histogram.png](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movie_duration_histogram.png))
+![Movie Duration Histogram](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movie_duration_histogram.png))
 
 ### Release Year Scatter
-![Release Year Scatter]([release_year_scatter.png](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/release_year_scatter.png))
+![Release Year Scatter](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/release_year_scatter.png))
 
 ### Top 10 Countries
-![Top 10 Countries]([top_10countries.png](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/top_10countries.png))
+![Top 10 Countries](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/top_10countries.png))
 
 ### Movies vs TV Shows Comparison Over Time
-![Movies vs TV Shows Comparison]([movies_tv_comparison.png](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movies_tv_comparison.png))
+![Movies vs TV Shows Comparison](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/movies_tv_comparison.png))
 
 ---
 
 ## 🎥 Demo
 Here’s a quick demo of the notebook execution:
 
-![Demo]([Demo.gif](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/Demo.gif))
+![Demo](https://github.com/prajwalsapkal/netflix-titles-eda/blob/main/Demo.gif))
 
 ---
